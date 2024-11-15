@@ -3,7 +3,7 @@
 
 
 
-
+    //Oppgave 1
     int number = 100;
     double commaSepperated = 5.5;
     long manyNumbers = 99999999l;
@@ -13,14 +13,12 @@
     char singleCharacter = 'E';
     bool trueAndFalse = false;
 
+    //Oppgave 2
+    int a = 5;
+    decimal b = 3.555m;
+    decimal sum = a + b;
 
-    decimal CombineNumbers()
-    {
-        int a = 5;
-        decimal b = 3.555m;
-        decimal sum = a + b;
-        return sum;
-        
-    }
-Console.Write($"{CombineNumbers()}");
 
+
+
+    
