@@ -15,7 +15,7 @@
 
     //Oppgave 2
     int a = 5;
-    decimal b = 3.555m;
+    decimal b = 3m;
     decimal sum = a + b;
 
 
